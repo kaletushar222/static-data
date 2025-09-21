@@ -22,62 +22,62 @@
         {
           "name": "React JS",
           "id": "1",
-          "imageUrl": "assets/img/skills/react.png"
+          "imageUrl": "skills/react.png"
         },
         {
           "name": "JavaScript",
           "id": "2",
-          "imageUrl": "assets/img/skills/javascript.png"
+          "imageUrl": "skills/javascript.png"
         },
         {
           "name": "Html",
           "id": "3",
-          "imageUrl": "assets/img/skills/html.png"
+          "imageUrl": "skills/html.png"
         },
         {
           "name": "Css",
           "id": "4",
-          "imageUrl": "assets/img/skills/css.png"
+          "imageUrl": "skills/css.png"
         },
         {
           "name": "Backbone JS",
           "id": "5",
-          "imageUrl": "assets/img/skills/backbonejs.png"
+          "imageUrl": "skills/backbonejs.png"
         },
         {
           "name": "Meteor JS",
           "id": "6",
-          "imageUrl": "assets/img/skills/meteor.png"
+          "imageUrl": "skills/meteor.png"
         },
         {
           "name": "Mongo",
           "id": "7",
-          "imageUrl": "assets/img/skills/mongo.png"
+          "imageUrl": "skills/mongo.png"
         },
         {
           "name": "Node",
           "id": "8",
-          "imageUrl": "assets/img/skills/node.png"
+          "imageUrl": "skills/node.png"
         },
         {
           "name": "Python",
           "id": "9",
-          "imageUrl": "assets/img/skills/python.png"
+          "imageUrl": "skills/python.png"
         },
         {
           "name": "Bootstrap",
           "id": "10",
-          "imageUrl": "assets/img/skills/bootstrap.png"
+          "imageUrl": "skills/bootstrap.png"
         },
         {
           "name": "Java",
           "id": "11",
-          "imageUrl": "assets/img/skills/java-1.png"
+          "imageUrl": "skills/java-1.png"
         },
         {
           "name": "AWS",
           "id": "12",
-          "imageUrl": "assets/img/skills/aws.png"
+          "imageUrl": "skills/aws.png"
         }
     ],
 
@@ -85,41 +85,41 @@
       {
         "id": "1",
         "title": "B2B e-commerce Web Application",
-        "imageUrl": "assets/img/gallery/apps/b2b.jpg",
+        "imageUrl": "gallery/apps/b2b.jpg",
         "description": "A comprehensive B2B web application designed to connect buyers and sellers seamlessly. It facilitates efficient transactions, provides robust inventory management, and supports features like product cataloging, order tracking, and secure payment processing to streamline business operations."
     
       },
       {
         "id": "2",
         "title": "Health Care Web Application",
-        "imageUrl": "assets/img/gallery/apps/healthcare.jpeg",
+        "imageUrl": "gallery/apps/healthcare.jpeg",
         "description": "A user-friendly web application designed for the US healthcare sector, allowing users to enroll in health plans seamlessly. The application guides users through a survey to gather information such as age, location, and preferences, then provides personalized plan recommendations. It ensures accessibility, compliance with healthcare standards, and a streamlined enrollment process."
       },
       {
         "id": "3",
         "title": "Shri Datta Dairy Farm",
-        "imageUrl": "assets/img/gallery/apps/datta.png",
+        "imageUrl": "gallery/apps/datta.png",
         "description": "A specialized application for dairy farms to automate the generation of monthly bills. Providing accurate billing and payment records. The system streamlines operations, reduces manual errors, and ensures transparency in financial transactions.",
         "appUrl": "https://dairy.tushark.in"
       },
       {
         "id": "4",
         "title": "Kondhare Associates",
-        "imageUrl": "assets/img/gallery/apps/kondhare.jpeg",
+        "imageUrl": "gallery/apps/kondhare.jpeg",
         "description": "Static Website",
         "appUrl": "https://kondhareassociates.co.in"
       },
       {
         "id": "5",
         "title": "Chronicle legal",
-        "imageUrl": "assets/img/gallery/apps/chronicle.jpg",
+        "imageUrl": "gallery/apps/chronicle.jpg",
         "description": "Static Website",
         "appUrl": "https://chroniclelegal.in/"
       },
       {
         "id": "6",
         "title": "Audi Assure",
-        "imageUrl": "assets/img/gallery/apps/audiassure.jpg",
+        "imageUrl": "gallery/apps/audiassure.jpg",
         "description": "financial services company",
         "appUrl": "https://audiassure.com/"
       }
@@ -129,25 +129,25 @@
       {
         "id": "1",
         "title": "Madhe Ghat Waterfall",
-        "imageUrl": "assets/img/gallery/photos/madhe.png",
+        "imageUrl": "gallery/photos/madhe.png",
         "description": "Madhe Ghat is a waterfall located in Maharashtra, a state of India, around 62 km southwest of Pune, bordering Raigad district."
       },
       {
         "id": "2",
         "title": "Venna Lake",
-        "imageUrl": "assets/img/gallery/photos/venna.jpg",
+        "imageUrl": "gallery/photos/venna.jpg",
         "description": "Venna Lake in Mahabaleshwar is a scenic spot offering boating, horse riding, and picnic areas amidst lush greenery."
       },
       {
         "id": "3",
         "title": "Krishnabai Temple",
-        "imageUrl": "assets/img/gallery/photos/mahabi.jpg",
+        "imageUrl": "gallery/photos/mahabi.jpg",
         "description": "Krishnabai Temple, built in the 13th century, is believed to be the source of the Krishna River. Nestled in Mahabaleshwar's serene hills, it's a tranquil spot for history and nature lovers."
       },
       {
         "id": "5",
         "title": "Diveagar Beach",
-        "imageUrl": "assets/img/gallery/photos/diveagar.jpeg",
+        "imageUrl": "gallery/photos/diveagar.jpeg",
         "description": "Diveagar (Dive Agar) is a village located in Shrivardhan Taluka"
       }
     ],
@@ -158,7 +158,7 @@
       "phone": "(+91) 8888422801",
       "email": "kaletushar222@gmail.com",
       "summary": "Software Developer with 7+ years of experience, specializing in design and integration problem-solving. Expert in ReactJS with strong skills in database analysis and design. Proficient in developing user requirements, creating specifications, and implementing new features.",
-      "pdfCVUrl": "assets/pdf/tushar_kale_cv.pdf",
+      "pdfCVUrl": "tushar_kale_cv.pdf",
       "education": [
         {
           "degree": "Master's in Computer Science",
