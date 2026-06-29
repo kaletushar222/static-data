@@ -173,9 +173,16 @@
           "description": "With a Bachelor's in Computer Science, I’ve built a strong foundation in problem-solving, innovation, and technology—equipping me to tackle complex challenges and drive impactful solutions."
         }
       ],
+      "certifications": [
+        {
+          "title": "Azure AI Engineer Associate",
+          "issuer": "Microsoft",
+          "year": "2026"
+        }
+      ],
       "experience": [
         {
-          "title": "Senior Software Engineer",
+          "title": "Custom Software Engineering Specialist (Team Lead)",
           "company": "Accenture, Pune-Maharashra, IN",
           "years": "June 2021 - Present",
           "responsibilities": [
