@@ -178,6 +178,11 @@
           "title": "Azure AI Engineer Associate",
           "issuer": "Microsoft",
           "year": "2026"
+        },
+        {
+          "title": "Claude Certified Architect – Foundation",
+          "issuer": "Anthropic",
+          "year": "2026"
         }
       ],
       "experience": [
