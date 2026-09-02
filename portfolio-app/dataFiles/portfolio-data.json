@@ -1,4 +1,5 @@
 {
+    "heroSkils" : ["Developer", "Tech Lead", "AI Engineer"],
     "sections": [
         { "id": "hero", "title": "Home", "icon": "bi bi-house navicon" },
         { "id": "about", "title": "About", "icon": "bi bi-person navicon" },
